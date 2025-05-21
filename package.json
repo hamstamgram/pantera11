@@ -7,6 +7,6 @@
     "start": "serve -s ."
   },
   "dependencies": {
-    "serve": "^15.3.2"
+    "serve": "^15.0.2"
   }
 }
