@@ -1,0 +1,7 @@
+# Skip sources Bolt never needs to read
+node_modules/
+.git/
+psd/
+raw-assets/
+*.mp4
+*.zip
