@@ -1,0 +1,12 @@
+{
+  "name": "pantera11",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "serve -l 4000",
+    "start": "serve -s ."
+  },
+  "dependencies": {
+    "serve": "^15.3.2"
+  }
+}
